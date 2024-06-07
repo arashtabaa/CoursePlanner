@@ -48,4 +48,4 @@ Course Planner is a Windows Forms application that helps users manage and organi
 
 ## ✍️ Author
 
-- Your Name - [arashtabaa](https://github.com/arashtabaa)
+- Arash Tabatabaei - [arashtabaa](https://github.com/arashtabaa)
