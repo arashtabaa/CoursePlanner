@@ -1,6 +1,6 @@
 # Course Planner
 
-[![GitHub release](https://img.shields.io/github/release/arashtabaa/CoursePlanner?style=flat-square)](https://github.com/yourusername/CoursePlanner/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/arashtabaa/CoursePlanner?style=flat-square)](https://github.com/arashtabaa/CoursePlanner/releases/latest)
 
 ![image](https://github.com/arashtabaa/CoursePlanner/assets/153722318/5ec0c4f9-ae85-4a91-b2cb-072f27ac35f6)
 
